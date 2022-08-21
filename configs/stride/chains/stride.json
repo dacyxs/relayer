@@ -1,8 +1,8 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "dacxys",
-    "chain-id": "STRIDE-TESTNET-2",
+    "key": "wallet",
+    "chain-id": "STRIDE-TESTNET-4",
     "rpc-addr": "http://38.242.146.249",
     "account-prefix": "stride",
     "keyring-backend": "test",
